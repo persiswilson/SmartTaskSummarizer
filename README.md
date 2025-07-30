@@ -2,8 +2,8 @@
 
 An AI-powered Streamlit tool that transforms messy task descriptions into clean summaries, relevant tags, and priority scores.
 ## Description
-Smart Task Summarizer + Tagger is an AI-powered tool designed to convert cluttered, unstructured task descriptions into clear, actionable items. It uses Google's Gemini Pro LLM to summarize each task, assign meaningful tags, and classify its priority level (High, Medium, or Low).
 
+Smart Task Summarizer + Tagger is an AI-powered tool designed to convert cluttered, unstructured task descriptions into clear, actionable items. It uses Google's Gemini Pro LLM to summarize each task, assign meaningful tags, and classify its priority level (High, Medium, or Low).
 This tool is ideal for project managers, productivity enthusiasts, and professionals who deal with messy to-do lists, meeting notes, or backlog items and want to quickly clean them up with AI.
 ---
 
